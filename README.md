@@ -10,6 +10,10 @@ Before you begin, you should have the following tools installed on your local ma
 - Git
 
 You can install Prerequisites by doing this steps. [click here & complete all steps one by one]().
+![Reddit-yt-updated](https://github.com/user-attachments/assets/c12e39d2-6db0-495e-a7ad-e3225e04ff70)
+
+
+
 
 
 ## Installation
