@@ -13,7 +13,7 @@ You can install Prerequisites by doing this steps. [click here & complete all st
 ![Reddit-yt-updated](https://github.com/user-attachments/assets/c12e39d2-6db0-495e-a7ad-e3225e04ff70)
 
 
-
+**Deploy Reddit to AWS EKS | Trivy scans Kubernetes | DevSecOps**
 
 
 ## Installation
